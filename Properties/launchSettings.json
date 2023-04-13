@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XmlLoader": {
+      "commandName": "Project",
+      "commandLineArgs": "sample.xml"
+    }
+  }
+}
